@@ -44,6 +44,7 @@ dist/
 *.d.ts
 !src/**/*.d.ts
 lib/
+!src/lib/
 esm/
 cjs/
 *.cjs
